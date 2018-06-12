@@ -1,0 +1,61 @@
+No.,Rk/Pk,Round,Team,Player,College,Years,G,MP,PTS,TRB,AST,FG%,3P%,FT%,MP,PTS,TRB,AST,WS,WS/48,BPM,VORP
+1,1,1,PHI,Markelle Fultz,University of Washington,1,4,76,24,9,7,0.333,,0.500,19.0,6.0,2.3,1.8,-0.1,-0.087,-10.1,-0.2
+2,2,1,LAL,Lonzo Ball,"University of California, Los Angeles",1,47,1589,483,326,333,0.358,0.316,0.459,33.8,10.3,6.9,7.1,1.7,0.053,1.7,1.5
+3,3,1,BOS,Jayson Tatum,Duke University,1,69,2102,919,346,102,0.469,0.423,0.823,30.5,13.3,5.0,1.5,5.9,0.135,0.6,1.4
+4,4,1,PHO,Josh Jackson,University of Kansas,1,67,1604,786,293,88,0.411,0.266,0.626,23.9,11.7,4.4,1.3,-0.7,-0.022,-4.8,-1.1
+5,5,1,SAC,De'Aaron Fox,University of Kentucky,1,61,1673,701,154,264,0.418,0.331,0.727,27.4,11.5,2.5,4.3,-0.5,-0.014,-4.5,-1.1
+6,6,1,ORL,Jonathan Isaac,Florida State University,1,24,466,116,86,15,0.369,0.306,0.750,19.4,4.8,3.6,0.6,0.0,0.003,-2.8,-0.1
+7,7,1,MIN,Lauri Markkanen,University of Arizona,1,60,1825,892,458,70,0.426,0.345,0.865,30.4,14.9,7.6,1.2,2.7,0.071,-2.1,0.0
+8,8,1,NYK,Frank Ntilikina,,1,66,1373,357,139,207,0.353,0.308,0.726,20.8,5.4,2.1,3.1,-1.0,-0.034,-4.3,-0.8
+9,9,1,DAL,Dennis Smith,North Carolina State University,1,60,1788,897,230,293,0.388,0.304,0.697,29.8,15.0,3.8,4.9,-1.0,-0.028,-2.8,-0.3
+10,10,1,SAC,Zach Collins,Gonzaga University,1,52,810,227,181,40,0.406,0.350,0.636,15.6,4.4,3.5,0.8,0.8,0.044,-2.6,-0.1
+11,11,1,CHO,Malik Monk,University of Kentucky,1,50,593,239,43,57,0.330,0.309,0.737,11.9,4.8,0.9,1.1,-0.5,-0.039,-6.4,-0.7
+12,12,1,DET,Luke Kennard,Duke University,1,59,1094,389,129,87,0.433,0.406,0.854,18.5,6.6,2.2,1.5,1.5,0.066,-2.1,0.0
+13,13,1,DEN,Donovan Mitchell,University of Louisville,1,66,2176,1305,243,236,0.437,0.347,0.825,33.0,19.8,3.7,3.6,4.2,0.092,1.1,1.7
+14,14,1,MIA,Bam Adebayo,University of Kentucky,1,60,1211,423,337,94,0.520,0.000,0.723,20.2,7.1,5.6,1.6,4.0,0.159,0.8,0.9
+15,15,1,POR,Justin Jackson,University of North Carolina,1,56,1169,359,152,56,0.443,0.303,0.688,20.9,6.4,2.7,1.0,0.6,0.024,-3.8,-0.5
+16,16,1,CHI,Justin Patton,Creighton University,,,,,,,,,,,,,,,,,
+17,17,1,MIL,D.J. Wilson,University of Michigan,1,21,69,19,9,3,0.571,0.400,0.500,3.3,0.9,0.4,0.1,0.1,0.042,-4.9,0.0
+18,18,1,IND,T.J. Leaf,"University of California, Los Angeles",1,48,419,133,74,8,0.462,0.447,0.667,8.7,2.8,1.5,0.2,0.7,0.075,-4.9,-0.3
+19,19,1,ATL,John Collins,Wake Forest University,1,63,1460,659,444,69,0.581,0.333,0.747,23.2,10.5,7.0,1.1,4.7,0.153,1.5,1.3
+20,20,1,POR,Harry Giles,Duke University,,,,,,,,,,,,,,,,,
+21,21,1,OKC,Terrance Ferguson,,1,53,650,163,40,15,0.422,0.323,0.875,12.3,3.1,0.8,0.3,1.1,0.078,-2.4,-0.1
+22,22,1,BRK,Jarrett Allen,University of Texas at Austin,1,59,1120,473,312,42,0.584,0.273,0.786,19.0,8.0,5.3,0.7,3.3,0.140,0.0,0.6
+23,23,1,TOR,OG Anunoby,Indiana University,1,61,1247,358,148,48,0.455,0.351,0.686,20.4,5.9,2.4,0.8,2.5,0.096,0.6,0.8
+24,24,1,UTA,Tyler Lydon,Syracuse University,1,1,2,0,0,0,,,,2.0,0.0,0.0,0.0,0.0,-0.012,-6.4,0.0
+25,25,1,ORL,Anzejs Pasecniks,,,,,,,,,,,,,,,,,,
+26,26,1,POR,Caleb Swanigan,Purdue University,1,20,146,43,38,10,0.370,0.167,0.615,7.3,2.2,1.9,0.5,0.0,-0.003,-4.6,-0.1
+27,27,1,BRK,Kyle Kuzma,University of Utah,1,67,2022,1032,414,121,0.447,0.368,0.703,30.2,15.4,6.2,1.8,3.2,0.077,-1.4,0.3
+28,28,1,LAL,Tony Bradley,University of North Carolina,1,9,29,8,11,1,0.273,0.000,1.000,3.2,0.9,1.2,0.1,0.0,0.030,-9.6,-0.1
+29,29,1,SAS,Derrick White,University of Colorado,1,17,139,54,26,9,0.485,0.615,0.700,8.2,3.2,1.5,0.5,0.5,0.172,0.5,0.1
+30,30,1,UTA,Josh Hart,Villanova University,1,55,1182,364,206,65,0.461,0.397,0.656,21.5,6.6,3.7,1.2,2.5,0.101,-0.4,0.5
+31,31,2,CHO,Frank Jackson,Duke University,,,,,,,,,,,,,,,,,
+32,32,2,PHO,Davon Reed,University of Miami,1,12,111,33,19,7,0.324,0.375,0.750,9.3,2.8,1.6,0.6,0.0,-0.018,-6.5,-0.1
+33,33,2,ORL,Wesley Iwundu,Kansas State University,1,52,754,174,108,44,0.441,0.214,0.765,14.5,3.3,2.1,0.8,0.6,0.039,-3.2,-0.2
+34,34,2,SAC,Frank Mason,University of Kansas,1,42,790,330,93,117,0.380,0.377,0.827,18.8,7.9,2.2,2.8,0.4,0.026,-3.7,-0.3
+35,35,2,ORL,Ivan Rabb,University of California,1,27,310,119,90,20,0.612,,0.750,11.5,4.4,3.3,0.7,0.7,0.106,-1.8,0.0
+36,36,2,PHI,Jonah Bolden,,,,,,,,,,,,,,,,,,
+37,37,2,BOS,Semi Ojeleye,Southern Methodist University,1,60,853,136,114,16,0.309,0.294,0.625,14.2,2.3,1.9,0.3,0.8,0.044,-3.5,-0.3
+38,38,2,CHI,Jordan Bell,University of Oregon,1,44,614,210,162,77,0.657,0.000,0.703,14.0,4.8,3.7,1.8,2.4,0.190,4.6,1.0
+39,39,2,PHI,Jawun Evans,Oklahoma State University,1,43,754,228,83,97,0.352,0.278,0.787,17.5,5.3,1.9,2.3,-0.1,-0.005,-4.4,-0.5
+40,40,2,NOP,Dwayne Bacon,Florida State University,1,45,512,108,96,22,0.355,0.294,0.714,11.4,2.4,2.1,0.5,-0.2,-0.018,-6.5,-0.6
+41,41,2,ATL,Tyler Dorsey,University of Oregon,1,43,647,241,90,55,0.349,0.326,0.714,15.0,5.6,2.1,1.3,0.1,0.005,-5.0,-0.5
+42,42,2,UTA,Thomas Bryant,Indiana University,1,10,33,11,6,2,0.333,0.200,0.667,3.3,1.1,0.6,0.2,0.0,0.039,-7.0,0.0
+43,43,2,HOU,Isaiah Hartenstein,,,,,,,,,,,,,,,,,,
+44,44,2,NYK,Damyean Dotson,University of Oregon,1,35,298,100,46,18,0.435,0.300,0.667,8.5,2.9,1.3,0.5,0.2,0.035,-4.2,-0.2
+45,45,2,HOU,Dillon Brooks,University of Oregon,1,68,1949,675,208,99,0.441,0.368,0.750,28.7,9.9,3.1,1.5,1.0,0.025,-3.2,-0.6
+46,46,2,PHI,Sterling Brown,Southern Methodist University,1,43,659,196,125,20,0.420,0.377,0.864,15.3,4.6,2.9,0.5,0.9,0.063,-3.1,-0.2
+47,47,2,IND,Ike Anigbogu,"University of California, Los Angeles",1,10,28,13,9,0,0.444,,0.833,2.8,1.3,0.9,0.0,0.1,0.177,-5.4,0.0
+48,48,2,MIL,Sindarius Thornwell,University of South Carolina,1,59,869,210,96,43,0.440,0.367,0.698,14.7,3.6,1.6,0.7,1.0,0.054,-1.3,0.1
+49,49,2,DEN,Vlatko Cancar,,,,,,,,,,,,,,,,,,
+50,50,2,PHI,Mathias Lessort,,,,,,,,,,,,,,,,,,
+51,51,2,DEN,Monte Morris,Iowa State University,1,3,25,10,2,7,0.667,0.000,1.000,8.3,3.3,0.7,2.3,0.2,0.313,2.1,0.0
+52,52,2,NOP,Edmond Sumner,Xavier University,,,,,,,,,,,,,,,,,
+53,53,2,BOS,Kadeem Allen,University of Arizona,1,8,27,5,3,1,0.167,0.000,0.750,3.4,0.6,0.4,0.1,-0.1,-0.145,-10.4,-0.1
+54,54,2,PHO,Alec Peters,Valparaiso University,1,12,98,24,20,8,0.250,0.185,1.000,8.2,2.0,1.7,0.7,-0.1,-0.027,-5.5,-0.1
+55,55,2,UTA,Nigel Williams-Goss,Gonzaga University,,,,,,,,,,,,,,,,,
+56,56,2,BOS,Jabari Bird,University of California,1,4,22,5,2,1,0.250,0.000,0.600,5.5,1.3,0.5,0.3,0.0,0.058,-4.6,0.0
+57,57,2,BRK,Aleksandar Vezenkov,,,,,,,,,,,,,,,,,,
+58,58,2,NYK,Ognjen Jaramaz,,,,,,,,,,,,,,,,,,
+59,59,2,SAS,Jaron Blossomgame,Clemson University,,,,,,,,,,,,,,,,,
+60,60,2,ATL,Alpha Kaba,,,,,,,,,,,,,,,,,,
